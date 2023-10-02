@@ -37,6 +37,8 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshushukla12" alt="GitHub Streak" />
   </a>
+  [![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-orange?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/himanshushukla9/practice)
+
 </p>
 
 
