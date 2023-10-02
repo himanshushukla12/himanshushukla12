@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://media.licdn.com/dms/image/D4D03AQEeOK4HgkrqsQ/profile-displayphoto-shrink_800_800/0/1673416047240?e=1701907200&v=beta&t=dGcoIowBpO_4iHu1gb7PHBPZGa6Ni7GHL06QbGPiIvA"  />
 
 ###
 
