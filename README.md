@@ -33,10 +33,11 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/himanshu-shukla-94505615a/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://photos.app.goo.gl/4D5TbhhdBqFGmGNv9" target="_blank">
+    <img src="https://photos.app.goo.gl/4D5TbhhdBqFGmGNv9" alt="Image Link" width="200" height="200" />
   </a>
 </div>
+
 
 ###
 
