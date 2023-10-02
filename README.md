@@ -33,4 +33,5 @@
 <p align="center">
   <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/thumbs-up.gif" alt="Thank You!" width="400">
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/himanshushukla12)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshushukla12)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
