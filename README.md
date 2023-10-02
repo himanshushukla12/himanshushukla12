@@ -1,48 +1,35 @@
-- 👋 Hi, I’m @himanshushukla12
-- I'm pursuing Masters of Engineering in Computer Science and Engineering.
-- 👀 I’m interested in coding related stuff and I'm a technology enthusiast.
-- 🌱 I’m intrested in software development, android app development, python projects.
-- 💞️ I’m looking to collaborate on a good project
-- 📫 How to reach me : you can reach to me at himanshushukla.shukla3@gmail.com
+<p align="center">
+  <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/banner.gif" alt="Hello World!" width="800" height="400">
+</p>
 
-<!---
-himanshushukla12/himanshushukla12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h2 align="left">Hi 👋Hi, I’m Himanshu Shukla from BITS Pilani</h2>
+<h1 align="center">👋 Hi, I'm Himanshu Shukla</h1>
+<h3 align="center">Masters of Engineering in Computer Science and Engineering</h3>
 
-###
+<p align="center">
+  <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/coding.gif" alt="Coding" width="300">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshushukla12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshushukla12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h4 align="center">I'm a technology enthusiast with a passion for:</h4>
+<p align="center">
+  <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/tech.gif" alt="Technology" width="400">
+</p>
 
-###
+- 🔭 I’m currently working on exciting **software development** projects.
+- 🚀 I'm an **Android app development** enthusiast.
+- 🐍 I love working on **Python projects**.
 
-<img align="right" height="150" src="https://photos.app.goo.gl/4D5TbhhdBqFGmGNv9"  />
+<h4 align="center">Let's collaborate on something amazing!</h4>
+<p align="center">
+  <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/collaborate.gif" alt="Collaborate" width="400">
+</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://photos.app.goo.gl/4D5TbhhdBqFGmGNv9" target="_blank">
-    <img src="https://photos.app.goo.gl/4D5TbhhdBqFGmGNv9" alt="Image Link" width="200" height="200" />
+<h4 align="center">📫 Reach out to me:</h4>
+<p align="center">
+  <a href="mailto:himanshushukla.shukla3@gmail.com">
+    <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/email.gif" alt="Email" width="200">
   </a>
-</div>
+</p>
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/thumbs-up.gif" alt="Thank You!" width="400">
+</p>
