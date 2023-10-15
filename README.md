@@ -18,3 +18,4 @@ Currently, I'm honing my problem-solving skills by working through challenges on
 
 - Email: [himanshushukla.shukla3@gmail.com](mailto:himanshushukla.shukla3@gmail.com)
 - LinkedIn: [Himanshu Shukla](https://www.linkedin.com/in/himanshu-shukla-94505615a/)
+![Himanshu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=himanshushukla12&bg_color=000000&color=4ffa67&line=4ffa67&point=ffffff&area=true&hide_border=true)
