@@ -9,7 +9,7 @@ I'm Himanshu Shukla, a Master of Engineering student at BITS Pilani. 🎓
     <strong>Python</strong>
   </div>
   <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/de/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="265" height="256">
+    <img src="https://upload.wikimedia.org/wikipedia/0/0e/Java_Logo.svg" alt="Java Logo" width="265" height="256">
     <br>
     <strong>Java</strong>
   </div>
