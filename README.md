@@ -14,10 +14,12 @@ Hello there! 🚀 I'm Himanshu Shukla. I'm currently pursuing a Master of Engine
 
 Currently, I'm honing my problem-solving skills by working through challenges on GeeksforGeeks, with a particular focus on Data Structures and Algorithms (DSA).
 
+## 📈 GitHub Stats
+
+![Himanshu's Contribution Chart](https://ghchart.rshah.org/himanshushukla12)
+
 ## 📬 Get in Touch
 
 - Email: [himanshushukla.shukla3@gmail.com](mailto:himanshushukla.shukla3@gmail.com)
 - LinkedIn: [Himanshu Shukla](https://www.linkedin.com/in/himanshu-shukla-94505615a/)
-## 📈 GitHub Stats
-
-![Himanshu's Contribution Chart](https://ghchart.rshah.org/himanshushukla12)
+- GeeksforGeeks: [Himanshu's Profile](https://auth.geeksforgeeks.org/user/himanshushukla9)
