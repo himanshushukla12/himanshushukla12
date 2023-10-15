@@ -1,44 +1,25 @@
-<p align="center">
-  <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/banner.gif" alt="Hello World!" width="800" height="400">
-</p>
+# Hi there! 👋
 
-<h1 align="center">👋 Hi, I'm Himanshu Shukla</h1>
-<h3 align="center">Masters of Engineering in Computer Science and Engineering</h3>
+I'm Himanshu Shukla, a Master of Engineering student at BITS Pilani. 🎓
 
-<p align="center">
-  <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/coding.gif" alt="Coding" width="300">
-</p>
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Java Logo](https://upload.wikimedia.org/wikipedia/de/3/30/Java_programming_language_logo.svg)
+![Android Logo](https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg)
 
-<h4 align="center">I'm a technology enthusiast with a passion for:</h4>
-<p align="center">
-  <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/tech.gif" alt="Technology" width="400">
-</p>
+I'm passionate about programming and enjoy working with a variety of technologies. Here are some of the things I'm skilled in:
 
-- 🔭 I’m currently working on exciting **software development** projects.
-- 🚀 I'm an **Android app development** enthusiast.
-- 🐍 I love working on **Python projects**.
+- **Python:** I'm a Python enthusiast and love creating applications with it.
+- **Java:** I have a strong foundation in Java and enjoy developing Java applications.
+- **Android:** I'm proficient in Android app development and have built several Android apps.
+- **Data Structures and Algorithms:** I enjoy solving challenging problems on platforms like GeeksforGeeks.
 
-<h4 align="center">Let's collaborate on something amazing!</h4>
-<p align="center">
-  <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/collaborate.gif" alt="Collaborate" width="400">
-</p>
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/himanshu-shukla-94505615a/) to learn more about my professional journey and projects I've worked on.
 
-<h4 align="center">📫 Reach out to me:</h4>
-<p align="center">
-  <a href="mailto:himanshushukla.shukla3@gmail.com">
-    <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/email.gif" alt="Email" width="200">
-  </a>
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github.com/himanshushukla12/himanshushukla12/blob/main/assets/thumbs-up.gif" alt="Thank You!" width="400">
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshushukla12" alt="GitHub Streak" />
-  </a>
-  [![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-orange?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/himanshushukla9/practice)
+[![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+## Let's Connect
 
-
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/himanshu-shukla-94505615a/)
+- Email: himanshushukla.shukla3@gmail.com
