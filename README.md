@@ -2,9 +2,29 @@
 
 I'm Himanshu Shukla, a Master of Engineering student at BITS Pilani. 🎓
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Java Logo](https://upload.wikimedia.org/wikipedia/de/3/30/Java_programming_language_logo.svg)
-![Android Logo](https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg)
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); grid-gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="265" height="256">
+    <br>
+    <strong>Python</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/de/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="265" height="256">
+    <br>
+    <strong>Java</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo" width="265" height="256">
+    <br>
+    <strong>Android</strong>
+  </div>
+  <div style="text-align: center;">
+    <!-- Add another logo here with the same structure -->
+    <img src="YOUR_IMAGE_URL" alt="Another Logo" width="265" height="256">
+    <br>
+    <strong>Another Skill</strong>
+  </div>
+</div>
 
 I'm passionate about programming and enjoy working with a variety of technologies. Here are some of the things I'm skilled in:
 
