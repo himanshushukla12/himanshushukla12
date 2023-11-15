@@ -9,7 +9,7 @@ Hello there! 🚀 I'm Himanshu Shukla. I'm currently pursuing a Master of Engine
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-<img src="https://github.com/himanshushukla12/my-repository-customization-files/blob/main/DALL%C2%B7E%202023-11-15%2020.46.53%20-%20A%20modern%20logo%20for%20a%20data%20visualization%20company.%20The%20design%20should%20be%20sleek%20and%20professional,%20featuring%20a%20stylized%20representation%20of%20a%20graph%20or%20chart,%20.png?raw=true" alt="Data Visualization Logo" width="64" height="64">
+- <img src="https://github.com/himanshushukla12/my-repository-customization-files/blob/main/DALL%C2%B7E%202023-11-15%2020.46.53%20-%20A%20modern%20logo%20for%20a%20data%20visualization%20company.%20The%20design%20should%20be%20sleek%20and%20professional,%20featuring%20a%20stylized%20representation%20of%20a%20graph%20or%20chart,%20.png?raw=true" alt="Data Visualization Logo" width="64" height="64">
 
 Welcome to the Data Visualization repository! This repository contains code and resources for various data visualization projects.
 
