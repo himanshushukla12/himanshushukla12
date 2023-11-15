@@ -11,12 +11,6 @@ Hello there! 🚀 I'm Himanshu Shukla. I'm currently pursuing a Master of Engine
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 - <img src="https://raw.githubusercontent.com/himanshushukla12/my-repository-customization-files/main/DALL%C2%B7E%202023-11-15%2020.53.45%20-%20A%20modern%20logo%20for%20a%20data%20visualization%20company%20with%20the%20words%20'Data%20Visualization'%20written%20on%20it.%20The%20design%20should%20be%20sleek%20and%20professional%2C%20featuri.png" alt="Data Visualization Logo" width="128" height="64">
 
-Welcome to the Data Visualization repository! This repository contains code and resources for various data visualization projects.
-
-## Quick Links
-
-- [Repository Link](https://github.com/himanshushukla12/Data_Visualization.git)
-
 ## 📘 What I'm Focused On
 
 Currently, I'm honing my problem-solving skills by working through challenges on GeeksforGeeks, with a particular focus on Data Structures and Algorithms (DSA).
