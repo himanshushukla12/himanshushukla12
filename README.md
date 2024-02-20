@@ -1,5 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Himanshu Shukla
 =======================================================================================================================================
+## Experience
+
+### AI Intern at Siemens Technology (Jan 2024 - Present)
+
+🚀 **Automation Wizard**: As an AI Intern at Siemens Technology, I wield the power of algorithms to automate simulations, transforming complex processes into elegant solutions with the magic touch of prompts.
+
+💡 **Innovative Solutions Architect**: Crafting cutting-edge automation techniques, I collaborate with a team of visionaries to revolutionize simulation workflows, paving the way for efficiency and excellence in engineering.
+
+🔧 **Problem Solver Extraordinaire**: Armed with deep learning expertise, I tackle intricate challenges head-on, unraveling complexities and streamlining simulations with precision and finesse.
+
+## Certifications
+
+🎓 **Deep Learning Maestro**: Proud graduate of the Deep Learning Specialization by DeepLearning.AI on Coursera, equipped with the knowledge and skills to conquer the realm of artificial intelligence and reshape the future.
+
 
 android developer, Deep Learning enthusiast
 -------------------------------------------
@@ -43,13 +57,5 @@ Currently, I'm honing my problem-solving skills by working through challenges on
 - Email: [himanshushukla.shukla3@gmail.com](mailto:himanshushukla.shukla3@gmail.com)
 - LinkedIn: [Himanshu Shukla](https://www.linkedin.com/in/himanshu-shukla-94505615a/)
 
-## Experience
 
-### AI Intern at Siemens Technology (Jan 2024 - Present)
-
-As an AI Intern at Siemens Technology, I'm involved in automating simulations using prompts.
-
-## Certifications
-
-- Completed Deep Learning Specialization by DeepLearning.AI on Coursera.
 
