@@ -6,10 +6,10 @@ android developer, Deep Learning enthusiast
 
 I'm currently pursuing a Master of Engineering from BITS Pilani. Passionate about technology and always eager to learn new things!
 
-* 🌍  I'm based in BITS Pilani
-* ✉️  You can contact me at [himanshushukla.shukla3@gmail.com](mailto:himanshushukla.shukla3@gmail.com)
-* 🧠  I'm learning Deep Learning
-* 🤝  I'm open to collaborating on Any open-source project
+* 🌍  I'm based in BITS Pilani
+* ✉️  You can contact me at [himanshushukla.shukla3@gmail.com](mailto:himanshushukla.shukla3@gmail.com)
+* 🧠  I'm learning Deep Learning
+* 🤝  I'm open to collaborating on Any open-source project
 * Checkout my website https://himanshushukla12.github.io/himanshu-portfolio/
 
 ### Skills
@@ -42,4 +42,14 @@ Currently, I'm honing my problem-solving skills by working through challenges on
 
 - Email: [himanshushukla.shukla3@gmail.com](mailto:himanshushukla.shukla3@gmail.com)
 - LinkedIn: [Himanshu Shukla](https://www.linkedin.com/in/himanshu-shukla-94505615a/)
-- GeeksforGeeks: [Himanshu's Profile](https://auth.geeksforgeeks.org/user/himanshushukla9)
+
+## Experience
+
+### AI Intern at Siemens Technology (Jan 2024 - Present)
+
+As an AI Intern at Siemens Technology, I'm involved in automating simulations using prompts.
+
+## Certifications
+
+- Completed Deep Learning Specialization by DeepLearning.AI on Coursera.
+
