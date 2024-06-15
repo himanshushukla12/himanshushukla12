@@ -10,6 +10,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🔧 **Problem Solver Extraordinaire**: Armed with deep learning expertise, I tackle intricate challenges head-on, unraveling complexities and streamlining simulations with precision and finesse.
 
+💻 Advanced Techniques Specialist: Implemented multi-GPU training utilizing fault-tolerant mechanisms with TorchRun in PyTorch and worked on Graph Neural Networks (GNNs) to enhance simulation accuracy and efficiency.
+
 ## Certifications
 
 🎓 **Deep Learning Maestro**: Proud graduate of the Deep Learning Specialization by DeepLearning.AI on Coursera, equipped with the knowledge and skills to conquer the realm of artificial intelligence and reshape the future.
@@ -23,6 +25,7 @@ I'm currently pursuing a Master of Engineering from BITS Pilani. Passionate abou
 * 🌍  I'm based in BITS Pilani
 * ✉️  You can contact me at [himanshushukla.shukla3@gmail.com](mailto:himanshushukla.shukla3@gmail.com)
 * 🧠  I'm learning Deep Learning
+* 📝 I also love to write articles. Check out my blog on [Medium](https://medium.com/@himanshushukla.shukla3)
 * 🤝  I'm open to collaborating on Any open-source project
 * Checkout my website https://himanshushukla12.github.io/himanshu-portfolio/
 
