@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 ## My Professional Experience
 ### ML Engineer at Siemens Digital Industry Software (July 2024 - Present)
-🚀 **Advance techniques for LLMs**: Working on improving efficiency of Fine-tuning and RAG using some opensource tools (Can't disclose), using pytorch and llama models.
+🚀 **Advance techniques for LLMs**: Working on improving efficiency of Fine-tuning and RAG using some opensource tools (Can't disclose).
 ### AI Intern at Siemens Technology (Jan 2024 - July 2024)
 
 🚀 **Automation Wizard**: As an AI Intern at Siemens Technology, I wield the power of algorithms to automate simulations, transforming complex processes into elegant solutions with the magic touch of prompts.
