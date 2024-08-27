@@ -1,8 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Himanshu Shukla
 =======================================================================================================================================
 ## My Professional Experience
-
-### AI Intern at Siemens Technology (Jan 2024 - Present)
+### AI Intern at Siemens Technology (July 2024 - Present)
+🚀 **Advance techniques for LLMs**: Working on improving efficiency of Fine-tuning and RAG using some opensource tools (Can't disclose), using pytorch and llama models.
+### AI Intern at Siemens Technology (Jan 2024 - July 2024)
 
 🚀 **Automation Wizard**: As an AI Intern at Siemens Technology, I wield the power of algorithms to automate simulations, transforming complex processes into elegant solutions with the magic touch of prompts.
 
