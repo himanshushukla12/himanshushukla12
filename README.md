@@ -17,8 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🎓 **Deep Learning Maestro**: Proud graduate of the Deep Learning Specialization by DeepLearning.AI on Coursera, equipped with the knowledge and skills to conquer the realm of artificial intelligence and reshape the future.
 
-
-android developer, Deep Learning enthusiast
+Deep Learning enthusiast (btw I also did android development)
 -------------------------------------------
 
 I'm currently pursuing a Master of Engineering from BITS Pilani. Passionate about technology and always eager to learn new things!
