@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 ## My Professional Experience
 ### ML Engineer at Siemens Digital Industry Software (July 2024 - Present)
-🚀 **Advance techniques for LLMs**: Working on improving efficiency of Fine-tuning and RAG using some opensource tools (Can't disclose).
+🚀 **Advance techniques for LLMs**: Working on improving efficiency of Fine-tuning and RAG using some opensource tools.
+- Developed a contextual retrieval mechanism using **LangChain**, combining **overlapping chunks**, cosine similarity for **top-K filtering** (k=100), and **BM25** retriever for optimized RAG performance. This is a concept implemented from [Anthropic blog](https://www.anthropic.com/news/contextual-retrieval) Idea.
 ### AI Intern at Siemens Technology (Jan 2024 - July 2024)
 
 🚀 **Automation Wizard**: As an AI Intern at Siemens Technology, I wield the power of algorithms to automate simulations, transforming complex processes into elegant solutions with the magic touch of prompts.
