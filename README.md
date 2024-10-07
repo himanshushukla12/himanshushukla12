@@ -29,9 +29,8 @@ I'm currently pursuing a Master of Engineering from BITS Pilani. Passionate abou
 * 📝 I also love to write articles. Check out my blog on [Medium](https://medium.com/@himanshushukla.shukla3)
 * 🤝  I'm open to collaborating on Any open-source project (And also did few)
 * Checkout my website https://himanshushukla12.github.io/himanshu-portfolio/
-**Open-Source Contributions**  
----
 
+### Open-Source Contributions
 - Fixed `RuntimeError: probability tensor contains either inf, nan or element < 0` [link](https://github.com/meta-llama/llama-recipes/pull/704)
 - Added Python script to run it completely locally using HF models in RAFT [link](https://github.com/ShishirPatil/gorilla/pull/605)
 - Fixed code error while doing evaluation in Contextual AI repository [link](https://github.com/ContextualAI/gritlm/pull/52#event-14117486423)
