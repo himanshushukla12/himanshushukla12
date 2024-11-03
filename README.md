@@ -100,7 +100,7 @@ Currently, I'm honing my problem-solving skills by working through challenges on
 ## 📬 Get in Touch
 
 - Email: [himanshushukla.shukla3@gmail.com](mailto:himanshushukla.shukla3@gmail.com)
-- LinkedIn: [Himanshu Shukla](https://www.linkedin.com/in/himanshu-shukla-94505615a/)
+- LinkedIn: [Himanshu Shukla](https://www.linkedin.com/in/himanshushukla01/)
 
 
 
