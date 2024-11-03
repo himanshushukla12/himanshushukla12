@@ -95,7 +95,18 @@ Currently, I'm honing my problem-solving skills by working through challenges on
 
 ## 📈 GitHub Stats
 
-![Himanshu's Contribution Chart](https://ghchart.rshah.org/himanshushukla12)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=himanshushukla12&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=himanshushukla12&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshushukla12&show_icons=true" />
+</picture>
+
 
 ## 📬 Get in Touch
 
