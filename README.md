@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## Open-Source Contributions
 
 - [Added a Gradio UI for multi-modal inferencing using Llama 3.2 Vision in official **meta llama** repository](https://github.com/meta-llama/llama-recipes/pull/718)
+- [meta-llama github, All functionality has been consolidated into a single file for CLI/UI/Checkpointing](https://github.com/meta-llama/llama-recipes/pull/757)
 - [Fixed RuntimeError in Official **Meta** repository: probability tensor contains either inf, nan or element `< 0`](https://github.com/meta-llama/llama-recipes/pull/704)
 - [Added python script to run it completely locally using HF models in RAFT, a combined research of **Microsoft**, **Meta**, and **UC Berkeley**](https://github.com/ShishirPatil/gorilla/pull/605)
 
